@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9c9afc7d.css",
+    "main.js": "/static/js/main.035731de.js",
+    "static/css/64.bba8fa55.chunk.css": "/static/css/64.bba8fa55.chunk.css",
+    "static/js/64.56dc6704.chunk.js": "/static/js/64.56dc6704.chunk.js",
+    "static/css/769.b3cbb36b.chunk.css": "/static/css/769.b3cbb36b.chunk.css",
+    "static/js/769.bda0d7b7.chunk.js": "/static/js/769.bda0d7b7.chunk.js",
+    "static/media/AKS-Logo-2 (1).png": "/static/media/AKS-Logo-2 (1).3f905155473ee4d737ab.png",
+    "static/media/Montserrat-Regular.ttf": "/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
+    "static/media/resume.pdf": "/static/media/resume.be8e5ae20a30f8bb7e79.pdf",
+    "static/media/Agustina.woff": "/static/media/Agustina.eb0c59dda4cc308cba96.woff",
+    "static/media/manOnTable.svg": "/static/media/manOnTable.8f117eb207e57ed8f89d67d595aceb45.svg",
+    "static/media/seven_logo.jpg": "/static/media/seven_logo.44fc3e1d0b8e8a6c72ee.jpg",
+    "static/media/unn-logo.png": "/static/media/unn-logo.e26eb5fdd1164bb5381d.png",
+    "static/media/contactMailDark.svg": "/static/media/contactMailDark.1db650d351729a0f17b4e3104e6a7b7a.svg",
+    "static/media/developerActivity.svg": "/static/media/developerActivity.2c0445cae86f4243433a2f5a22b2c031.svg",
+    "static/media/github-logo.png": "/static/media/github-logo.0f4feb9814b621722f40.png",
+    "static/media/JD info logo.png": "/static/media/JD info logo.69c7ba53e49f6e30a157.png",
+    "static/media/BNS02.png": "/static/media/BNS02.04e93aed10d7138ecf51.png",
+    "static/media/Orange_Disk.png": "/static/media/Orange_Disk.d5418b394a20dace2ae6.png",
+    "static/media/digital_dreams_logo.jpg": "/static/media/digital_dreams_logo.4c26421ae4515ec9530f.jpg",
+    "static/media/skill.svg": "/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
+    "index.html": "/index.html",
+    "static/media/talksCardBack.svg": "/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
+    "main.9c9afc7d.css.map": "/static/css/main.9c9afc7d.css.map",
+    "main.035731de.js.map": "/static/js/main.035731de.js.map",
+    "64.bba8fa55.chunk.css.map": "/static/css/64.bba8fa55.chunk.css.map",
+    "64.56dc6704.chunk.js.map": "/static/js/64.56dc6704.chunk.js.map",
+    "769.b3cbb36b.chunk.css.map": "/static/css/769.b3cbb36b.chunk.css.map",
+    "769.bda0d7b7.chunk.js.map": "/static/js/769.bda0d7b7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9c9afc7d.css",
+    "static/js/main.035731de.js"
+  ]
+}
